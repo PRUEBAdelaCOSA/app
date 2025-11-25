@@ -4,7 +4,7 @@
   "description": "",
   "main": "Gruntfile.js",
   "dependencies": {
-    "grunt": "^0.4.4",
+    "grunt": "^1.2.0",
     "grunt-mustache": "^0.1.7"
   },
   "devDependencies": {},
